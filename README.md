@@ -77,6 +77,3 @@ gradio
 pandas
 nltk
 
-
-
-
