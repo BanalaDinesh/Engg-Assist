@@ -36,7 +36,7 @@ chatbot/
 ### 1️⃣ Open in Google Colab  
 Click below to launch directly in Google Colab:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BanalaDinesh/chatbot/blob/main/notebook/Enggassist.ipynb)
+[![Open In Colab](https://colab.research.google.com/github/BanalaDinesh/chatbot/blob/main/notebook/Enggassist.ipynb)]
 
 ---
 
