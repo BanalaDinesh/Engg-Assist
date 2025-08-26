@@ -25,7 +25,7 @@ It helps students explore **Hyderabad engineering colleges** with details like:
 chatbot/  
 ├── hyderabad_engineering_colleges.csv  
 ├── hyd_college_faq_extended.csv  
-│── engg_assist_colab.ipynb # Main Google Colab notebook  
+│─ engg_assist_colab.ipynb # Main Google Colab notebook  
 ├── README.md # Documentation   
 
 
@@ -76,3 +76,4 @@ sentence-transformers
 gradio
 pandas
 nltk
+
