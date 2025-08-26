@@ -7,7 +7,7 @@ It helps students explore **Hyderabad engineering colleges** with details like:
 - ✅ Cutoffs  
 - ✅ Placements  
 - ✅ Accreditations  
-- ✅ Courses offered  
+- ✅ Courses offered
 
 ---
 
@@ -49,7 +49,7 @@ Inside Colab, upload your CSV files:
 ---
 
 ### 3️⃣ Run the Notebook  
-Run all cells in `engg_assist_colab.ipynb`.  
+Run all cells in `Enggassist.ipynb`.  
 This will:
 - Install dependencies
 - Start **Ollama server** inside Colab
@@ -76,6 +76,7 @@ sentence-transformers
 gradio
 pandas
 nltk
+
 
 
 
