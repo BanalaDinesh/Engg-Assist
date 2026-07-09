@@ -60,7 +60,7 @@ This will:
 ---
 
 ## 📊 Data Sources
-- `hyderabad_engineering_colleges.csv` → College details (fees, branches, cutoffs, etc.)  
+- hyderabad_engineering_colleges.csv → College details (fees, branches, cutoffs, etc.)  
 - `hyd_college_faq_extended.csv` → FAQs with predefined answers  
 
 ---
