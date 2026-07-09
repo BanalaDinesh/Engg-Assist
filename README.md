@@ -43,8 +43,8 @@ Click below to launch directly in Google Colab:
 ### 2️⃣ Upload Required CSVs  
 Inside Colab, upload your CSV files:  
 
--`hyderabad_engineering_colleges.csv`  
--`hyd_college_faq_extended.csv`
+- `hyderabad_engineering_colleges.csv`  
+- `hyd_college_faq_extended.csv`
 
 ---
 
@@ -60,8 +60,8 @@ This will:
 ---
 
 ## 📊 Data Sources
- -`hyderabad_engineering_colleges.csv` → College details (fees, branches, cutoffs, etc.)  
- -`hyd_college_faq_extended.csv` → FAQs with predefined answers  
+ - `hyderabad_engineering_colleges.csv` → College details (fees, branches, cutoffs, etc.)  
+ - `hyd_college_faq_extended.csv` → FAQs with predefined answers  
 
 ---
 
